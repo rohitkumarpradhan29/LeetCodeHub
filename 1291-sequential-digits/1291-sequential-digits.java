@@ -15,11 +15,9 @@ class Solution {
 
                 // Extract sequential substring
                 String part = s.substring(start, start + len);
-
-                // Convert to integer
                 int num = Integer.parseInt(part);
 
-                // Check if it lies within the range
+                // Checking  its  range
                 if (num >= low && num <= high) {
                     list.add(num);
                 }
