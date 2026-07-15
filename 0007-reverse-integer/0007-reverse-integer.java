@@ -16,6 +16,6 @@ class Solution {
             }
      
 
-      return (int)rev;
+      return rev;
     }
 }
