@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/0066-plus-one) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
