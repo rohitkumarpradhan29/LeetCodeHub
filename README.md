@@ -23,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rohitkumarpradhan29/LeetCodeHub/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
